@@ -2,7 +2,7 @@
   <img src="https://github.com/VerdantMountain/resource/blob/main/Github_TG_Miner_logo.png" width="260">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Software Name-TG Miner-blue?logo=Windows Terminal" alt="Full Name"/>
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
@@ -26,7 +26,7 @@
 </div>
 -->
 
-# 🥇 矿龙 - 网吧挖矿系统
+# ⛏ TG Miner - 铁镐挖矿内核
 
 - **适用场景**：网吧网咖，电竞酒店，数据中心，均适用
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
