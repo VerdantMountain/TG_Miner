@@ -97,7 +97,7 @@
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
-<br><img src="https://github.com/VerdantMountain/resource/blob/main/tg_miner_github_wechat.png" width="480"></br>
+<br><img src="https://github.com/VerdantMountain/resource/blob/main/tg_miner_github_wechat.png" width="320"></br>
 
 <!--
 ![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
