@@ -59,7 +59,7 @@
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
 |  tg_miner v1.xx.x.exe  |  铁镐挖矿内核主程序  |  Windows系统 二进制可执行文件  |
-|  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
+|  README.md  |  程序介绍及说明文件  |  Github程序社区md格式说明文件  |
 
 <details>
 <summary> 2. ⚙ 配置 / Configuration（点此查看支持系统）</summary>
