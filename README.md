@@ -58,7 +58,7 @@
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
-|  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
+|  tg_miner v1.xx.x.exe  |  铁镐挖矿内核主程序  |  Windows系统 二进制可执行文件  |
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
 <details>
