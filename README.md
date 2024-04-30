@@ -35,9 +35,7 @@
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
 <br></br>
-<div align="center">
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/TG_Miner_github_banner.png" width="760"></br>
-</div>
 ## 🌐 矿池连接
 
 - 目前大陆地区已经无法直连矿池，需要[中转](https://github.com/VerdantMountain/KL-Mining-System#-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-%EF%B8%8F)服务器等方式连接矿池，以下格式仅作示范
