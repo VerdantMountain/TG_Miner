@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VerdantMountain/resource/blob/main/Github_TG_Miner_logo.png" width="212">
+  <img src="https://github.com/VerdantMountain/resource/blob/main/Github_TG_Miner_logo.png" width="210">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software Name-TG Miner-rgb(216, 153, 56)?labelColor=rgb(44, 60, 75)&logoColor=rgb(238, 178, 80)&logo=Windows Terminal" alt="Full Name"/>
